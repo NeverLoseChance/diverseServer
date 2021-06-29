@@ -1,1 +1,1 @@
-[{"nu":0,"m":100,"i":"1.2.3.4","p":8230,"a":"DiverseServer#1"}]
+[{"nu":0,"m":100,"i":"diverseserver.glitch.me","p":5000,"a":"DiverseServer#1"}]
